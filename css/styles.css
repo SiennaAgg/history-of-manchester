@@ -11306,6 +11306,8 @@ p {
 
 .page-section {
   padding: 4rem 0;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 .page-section h2.section-heading, .page-section .section-heading.h2 {
   font-size: 2.5rem;
@@ -11911,6 +11913,8 @@ section.cta:before {
 
 .smaller-page-section {
   padding: 2rem 0;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 .smaller-page-section h2.section-heading, .smaller-page-section .section-heading.h2 {
   font-size: 2.5rem;
